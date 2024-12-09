@@ -1,0 +1,1 @@
+This folder contains  files relevant to a typing speed calculator. A text is given and user can type it calculate their speed.
